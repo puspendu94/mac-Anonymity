@@ -2,14 +2,14 @@
  *Network Hack - Pre Condition*
 ##### Markdown Writing guide: [link to guide](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 ---
-## ***What***:
-* MAC : Media Access Control
-* Permanent ,Physical, Unique
----
 ## ***Why***:
 * Increase anonymity
 * Impaesonate other devices.
 * Bypass filters.
+---
+## ***What***:
+* MAC : Media Access Control
+* Permanent ,Physical, Unique
 ---
 ## ***How***:
 >~# apt-get install terminator
